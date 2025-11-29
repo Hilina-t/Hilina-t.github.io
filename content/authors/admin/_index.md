@@ -169,4 +169,4 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Hilina Workneh is a results-driven Software Engineer specializing in architecting and deploying highly performant, scalable backend systems using Golang, Java, and Python. With core experience in building secure enterprise data access services (SAML/OIDC) and optimizing distributed storage solutions, she bridges development with DevOps practices, ensuring end-to-end reliability via CI/CD and cloud tools (AWS/Azure, Docker). Her unique blend of engineering and data science expertise is further validated by multiple peer-reviewed publications, showcasing a deep commitment to technical innovation and research.
